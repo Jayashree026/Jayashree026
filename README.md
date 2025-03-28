@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **React.js**
 
-- 📫 How to reach me **19jayashree@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1Mq09e6QtV7cgCfAmL_S3F3jJ8WZAbohm](https://drive.google.com/drive/folders/1Mq09e6QtV7cgCfAmL_S3F3jJ8WZAbohm)
 
 <h3 align="left">Connect with me:</h3>
