@@ -12,8 +12,7 @@
 - 🌱 Always learning new technologies to enhance **performance & UI/UX**  
 - 💬 Ask me about **React.js, Frontend Optimization & UI Engineering**  
 - 🚀 Open to collaborations on **exciting web projects**  
- 
-📄 **My Resume:** [Google Drive Link](https://drive.google.com/drive/folders/1Mq09e6QtV7cgCfAmL_S3F3jJ8WZAbohm)  
+  
 
 ---
 
@@ -49,6 +48,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayashreekj/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=firefox&logoColor=white)](https://jayashreek-dev.netlify.app/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayashree026)  
-[![Email](https://img.shields.io/badge/Email-FF5733?style=for-the-badge&logo=gmail&logoColor=white)](mailto:19jayashree@gmail.com)  
+
 
 💡 **"Creating innovative, user-friendly web experiences—one line of code at a time!"** 🚀  
